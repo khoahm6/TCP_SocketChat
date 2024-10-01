@@ -1,0 +1,10 @@
+D:\TCP-SocketChat\SocketChat\ClientForm\bin\Debug\ClientForm.exe.config
+D:\TCP-SocketChat\SocketChat\ClientForm\bin\Debug\ClientForm.exe
+D:\TCP-SocketChat\SocketChat\ClientForm\bin\Debug\ClientForm.pdb
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.csproj.AssemblyReference.cache
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.ClientForm.resources
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.exe
+D:\TCP-SocketChat\SocketChat\ClientForm\obj\Debug\ClientForm.pdb

@@ -1,0 +1,10 @@
+D:\TCP-SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.exe.config
+D:\TCP-SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.exe
+D:\TCP-SocketChat\SocketChat\SocketChat\bin\Debug\SocketChat.pdb
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.AssemblyReference.cache
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.Form1.resources
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.Properties.Resources.resources
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.GenerateResource.cache
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChatServer.csproj.CoreCompileInputs.cache
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.exe
+D:\TCP-SocketChat\SocketChat\SocketChat\obj\Debug\SocketChat.pdb
